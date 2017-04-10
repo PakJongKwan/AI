@@ -8,7 +8,8 @@ This repository is made for Studying of AI.
 -	Document written languages are two types
 	-	Korean  
 	-	Englsih
--	Please send fixes or adds to this email or comment! >pakjongkwan@gmail.com
+-	Please send fixes or adds to this email or comment! 
+	>pakjongkwan@gmail.com
 
 -	All documents reveal the source
 
@@ -24,6 +25,7 @@ This repository is made for Studying of AI.
 -	문서의 작성 언어는 두가지 종류입니다.
 	-	한국어
 	-	영어
--	고칠점, 추가할점이 있다면 본 이메일이나 코멘트로 알려주세요! >pakjongkwan@gmail.com
+-	고칠점, 추가할점이 있다면 본 이메일이나 코멘트로 알려주세요! 
+	>pakjongkwan@gmail.com
 
 -	모든 문서는 출처를 기입합니다.
